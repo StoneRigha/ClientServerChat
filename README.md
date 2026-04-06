@@ -128,8 +128,6 @@ ClientServerChat/
 - EDT: Event Dispatch Thread for Swing updates
 - File Transfer Thread: Background file operations
 
-## 🎯 Key Classes
-
 
 ## 🔧 Development
 
